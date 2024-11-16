@@ -7,11 +7,11 @@ const session = process.env.SESSION || 'eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUi
 
 const prefix = process.env.PREFIX || '.';
 const mycode = process.env.CODE || "263";
-const author = process.env.STICKER_AUTHOR || 'SANJU-DOKHEBAJ';
-const packname = process.env.PACKNAME || 'DHOKEBAJ-SANJU';
-const dev = process.env.DEV || '919728893187';
+const author = process.env.STICKER_AUTHOR || '❤️⃝⃪ѕмαятуѕує∂❤️⃝⃪●┼┼';
+const packname = process.env.PACKNAME || '❤️⃝⃪ѕмαятуѕує∂❤️⃝⃪●┼┼';
+const dev = process.env.DEV || '97698045414';
 const DevDreaded = dev.split(",");
-const botname = process.env.BOTNAME || 'DHOKEBAH-BOT';
+const botname = process.env.BOTNAME || 'DHOKEBAJ-BOT';
 const mode = process.env.MODE || 'public';
 const gcpresence = process.env.GC_PRESENCE || 'false';
 const antionce = process.env.ANTIVIEWONCE || 'true';
